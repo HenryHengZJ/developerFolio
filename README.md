@@ -21,7 +21,7 @@ If you created something awesome and want to contribute then feel free to open P
 ## Sections 
 ✔️ Summary and About me\
 ✔️ Skills \
-✔️ Experiences \
+✔️ Work Experiences \
 ✔️ Open Source Projects Connected with Github\
 ✔️ Big Projects\
 ✔️ Achievements And Certifications 🏆\
