@@ -20,8 +20,13 @@ If you created something awesome and want to contribute then feel free to open P
 
 ## Sections 
 ✔️ Summary and About me\
+<<<<<<< HEAD
 ✔️ Skills \
 ✔️ Work Experiences \
+=======
+✔️ Skills\
+✔️ Work Experience\
+>>>>>>> a900d016067c4b9361127bc39f88f39d9b6ca228
 ✔️ Open Source Projects Connected with Github\
 ✔️ Big Projects\
 ✔️ Achievements And Certifications 🏆\
